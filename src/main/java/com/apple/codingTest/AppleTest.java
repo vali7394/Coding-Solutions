@@ -605,4 +605,13 @@ public class AppleTest {
   }
 
 
+  public void rodCuttingStrategy(int length, int[] prices) {
+
+
+
+
+
+
+  }
+
 }

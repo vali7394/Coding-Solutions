@@ -7,7 +7,18 @@ import java.util.LinkedList;
  */
 public class StackUsingLinkedList<T> {
 
-  LinkedList list = new LinkedList();
+  LinkedListTest list = new LinkedListTest();
+
+  Node temp = list.head;
+
+
+  public void test() {
+
+    while(true){
+
+    }
+
+  }
 
 
 }
